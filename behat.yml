@@ -1,0 +1,8 @@
+default:
+    extensions:
+        Laracasts\Behat: ~
+            # env_path: .env.behat
+        Behat\MinkExtension:
+            default_session: laravel
+            laravel: ~
+            show_cmd: '/Applications/Firefox.app/Contents/MacOS/firefox %s'

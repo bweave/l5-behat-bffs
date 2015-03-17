@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+.idea
+
+# Normally, .env would be ignored
+# I'm leaving it in for sake of completeness
+# in demoing .env & .end.behat
+# .env
