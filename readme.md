@@ -1,5 +1,5 @@
-Laravel 5 & Behat are BFFs
---------------------------
+Laravel 5 & Behat are BFFs Demo
+-------------------------------
 
 This project is a quick automated testing demo with Laravel 5 & Behat.
 
