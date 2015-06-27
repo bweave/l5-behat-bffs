@@ -9,7 +9,3 @@ Feature: Dummy Check
   Scenario: Home Page
     Given I am on the homepage
     Then I should see "Laravel 5"
-
-  Scenario: Create custom thing
-    Given I create a custom thing
-    Then I should have a custom thing
